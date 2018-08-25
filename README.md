@@ -61,8 +61,8 @@ on account of
 because of
 due to
 owe A to B
-
 ```
+
 ```
 depart  v.离开，出发; 去世; 离职; 脱轨;
 in substance 本质上
@@ -79,3 +79,100 @@ sow 播种
 ![](images/8_24_8.jpg)
 ![](images/8_24_9.jpg)
 ![](images/8_24_10.jpg)
+
+---
+
+# 8.25
+
+```
+welfare	n.福利, 社会救济; 幸福; 繁荣; 安宁;
+skeptical adj.怀疑性的，好怀疑的，<口>无神论的;
+
+minister
+n.部长; 大臣; 牧师; 公使;
+vi.辅助，服侍; 执行牧师职务;
+
+far-reaching adj.(影响)深远的，广泛的，深至远处的;
+
+inexorable adj.无情的，铁面无私的; 不可动摇的，不屈不挠的; 不能变更的; 不可阻挡的;
+
+ornament
+n.装饰; 装饰物; [乐] 装饰音;
+v.装饰; 美化;
+
+
+calling	
+n.呼喊; （从事某职业或活动的） 欲望; 职业; 邀请;
+
+(考研)one-parent household 单亲家庭
+
+concrete
+adj.具体的，有形的，实在的，实际的; 固结成的，混凝土制的; 图案诗歌的;
+n.混凝土; 具体物; （图案式） 有形诗; 〔建〕钢筋混凝土;
+vt.使凝固; 用混凝土修筑; 萃取;
+
+
+scrutinize
+vt.仔细检查;
+n.仔细或彻底检查;
+
+```
+
+```
+proof n.证明；证据；检验
+confirmation n.证实，确认
+evidence n.证据；证明
+prove v.证明；证实
+testify v.作证，证明
+
+certificate n.证明，证明书
+```
+
+```
+关于
+regarding
+considering
+relative to
+akin to
+in terms of
+in view of
+```
+
+```
+就……而言
+as far as ...concerned = so far as ...concerned
+in my opinion
+from my perspective
+```
+
+```
+anticipate
+vt.预见; 预料; 预感; 先于…行动;
+vi.预测; 过早地提出; 过早地考虑（或说、做）一件事;
+
+superficial 肤浅的
+shallow 浅的，肤浅的
+```
+
+```
+inflation n.通货膨胀; 膨胀; 夸张; 自命不凡
+```
+
+```
+handicap
+n.障碍; 缺陷; 不利条件
+vt.妨碍，使不利
+```
+
+```
+retailer n.零售商，零售店; 传播的人，处散布闲话的人;
+```
+
+![](images/8_25_1.jpg)
+![](images/8_25_2.jpg)
+![](images/8_25_3.jpg)
+![](images/8_25_4.jpg)
+![](images/8_25_5.jpg)
+![](images/8_25_6.jpg)
+![](images/8_25_7.jpg)
+![](images/8_25_8.jpg)
