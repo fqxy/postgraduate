@@ -176,3 +176,81 @@ retailer n.零售商，零售店; 传播的人，处散布闲话的人;
 ![](images/8_25_6.jpg)
 ![](images/8_25_7.jpg)
 ![](images/8_25_8.jpg)
+
+# 8.26
+
+```
+dispute
+vt.辩论，争论;
+vt.就…进行争论，辩论; 对…的真实或有效进行争论，怀疑; 争夺，竞争; 抵抗，抵制;
+n.争端; 辩论; （劳资） 纠纷; 罢工;
+
+
+cater to
+v.面向; 供应伙食，迎合;
+
+amateur
+n.业余爱好者; 外行，生手;
+adj.外行的; 业余的，非职业的;
+```
+
+![](images/8_26_1.png)
+
+```
+undesirable
+adj.不良的; 不合需要的; 不受欢迎的，讨厌的; 不方便的;
+n.不受欢迎的人; 不良分子;
+
+obscuring	
+v.使…模糊不清，掩盖( obscure的现在分词 );
+```
+
+```
+wise
+adj.聪明的，有智慧的; 博学的，博识的; 明白的; 像智者的;
+vt.使知道，使懂得; 教导; 指点;
+vi.了解，知道;
+
+wisdom
+n.智慧，明智; 常识，好的判断力; 知识，学问; 古训;
+```
+
+```
+law-abiding
+adj.守法的; 规规矩矩
+```
+
+```
+in/by comparison with... 与...相比较
+in contrast to 与...不一致
+by contrast 相反的(代替however)
+on the contrary 相反， 正相反; 反倒; 反而;
+
+compare 比较相同点
+contrast 比较不同点
+```
+
+```
+leakage
+n.泄露; 漏，漏出;
+```
+
+```
+沮丧
+frustration
+depression
+
+susceptible
+adj.易受影响的; 易受感染的; 善感的; 可以接受或允许的;
+
+provocative
+adj.挑衅的; 刺激性的;
+n.刺激物; 兴奋剂;
+
+```
+![](images/8_26_2.jpg)
+![](images/8_26_3.jpg)
+![](images/8_26_4.jpg)
+![](images/8_26_5.jpg)
+![](images/8_26_6.jpg)
+![](images/8_26_7.jpg)
