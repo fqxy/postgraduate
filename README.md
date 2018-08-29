@@ -311,3 +311,122 @@ vt.用雕像装饰;
 ![](images/8_27/8_27_9.jpg)
 ![](images/8_27/8_27_10.jpg)
 ![](images/8_27/8_27_11.jpg)
+
+
+# 8.28
+```
+getting fed up  受够了
+
+grumpily
+adv.性情乖戾地，脾气粗暴地
+
+slash
+n.削减；斜线；猛砍；砍痕；沼泽低地
+vt.猛砍；鞭打；严厉批评；大幅度裁减或削减
+vi.猛砍；严厉批评
+
+feasible
+adj.可行的；可能的；可实行的
+```
+
+```
+archaeological
+adj.考古学的，考古学上的;
+
+symptom
+n.症状; 征兆;
+
+innumerable
+adj.不可胜数; 无数的，数不清的;
+
+debate
+n.辩论; 辩论; 争论; 讨论;
+vt.辩论; 仔细考虑; 思考; 盘算;
+
+count ... as
+把...看做
+
+capital
+n.资本; 首都; 资源; 大写字母;
+adj.资本的; 首都的; 极好的; 死刑的;
+```
+
+```
+考虑到
+concerning
+in terms of
+in view of
+with respect/regard of
+
+关于
+in respect of
+```
+
+```
+(考研)主要地
+primarily
+mainly
+mostly
+chiefly
+
+controversial
+adj.有争议的，引起争议的，被争论的; 好争论的;
+```
+
+```
+新英文杂志8.27.1
+
+victims
+n.受害者，牺牲者；受灾群众（victim的复数）
+
+refugees
+难民
+
+dominion
+n.主权，统治权；支配；领土
+
+Chinese Communist Party
+中国共产党
+
+alluring
+adj.诱惑的，诱人的；迷人的，吸引人的
+
+prosperous
+adj.繁荣的；兴旺的
+
+recruit
+n.招聘；新兵；新成员
+vi.复原；征募新兵；得到补充；恢复健康
+vt.补充；聘用；征募；使…恢复健康
+
+proportion
+n.比例，占比；部分；面积；均衡
+vt.使成比例；使均衡；分摊
+
+in favour of
+支持，赞成
+
+territory
+n.领土，领域；范围；地域；版图
+
+negotiate
+v.谈判，协商
+
+altered
+n.为参加短程高速汽车赛而改装的赛车
+v.改变（alter的过去分词）
+
+hold one's breath
+屏息、忍受着忧虑、紧张或感到兴奋
+```
+
+![](images/8_28/8_28_1.jpg)
+![](images/8_28/8_28_2.jpg)
+![](images/8_28/8_28_3.jpg)
+![](images/8_28/8_28_4.jpg)
+![](images/8_28/8_28_5.jpg)
+![](images/8_28/8_28_6.jpg)
+![](images/8_28/8_28_7.jpg)
+![](images/8_28/8_28_8.jpg)
+![](images/8_28/8_28_9.jpg)
+![](images/8_28/8_28_10.jpg)
