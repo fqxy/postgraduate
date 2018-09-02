@@ -374,7 +374,7 @@ adj.有争议的，引起争议的，被争论的; 好争论的;
 ```
 
 ```
-新英文杂志8.27.1
+新英文杂志8.28.1
 
 victims
 n.受害者，牺牲者；受灾群众（victim的复数）
@@ -430,3 +430,63 @@ hold one's breath
 ![](images/8_28/8_28_8.jpg)
 ![](images/8_28/8_28_9.jpg)
 ![](images/8_28/8_28_10.jpg)
+
+# 8.29
+
+```
+新英文杂志8.28.2
+
+abruptly
+adv.突然地；唐突地
+
+regulatory
+adj.管理的；控制的；调整的
+
+fierce
+adj.凶猛的；猛烈的；暴躁的
+
+revenue
+n.收入；税收；收益；营业收入
+
+consultancy
+n.咨询公司；顾问工作
+
+forecast
+n. 预测
+v. 预言；作预告
+
+rivals
+n.对手（rival的复数）；[劳经] 竞争者
+v.竞争（rival的三单形式）
+
+subsidies
+补助金，补贴，津贴（subsidy的名词复数）
+
+catch up with
+赶上，追上；逮捕；处罚
+```
+
+```
+新英文杂志8.28.2
+
+circadian rhythm
+[生理] 生理节律；[生理] 近昼夜节律；日周期节律
+
+chronotype
+睡眠类型
+
+clinical diagnosis
+临床诊断
+```
+
+```
+envisage
+vt.想像，设想; 正视，面对; 观察，展望;
+
+deprivation
+n.剥夺; 丧失; 免职，废止
+
+hostage
+n.人质; 抵押品;
+
+```
