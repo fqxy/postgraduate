@@ -789,6 +789,7 @@ hold one's breath
 [对比] basic / essential / fundamental / radical / vital的区别:这些形容词均有“基本的,基础的"之意;
 basic:普通用词,指明确、具体的基础或起点;
 essential:语气比basic和fundamental强,强调必不可少,暗含某物如缺少某部分,则失去本质特征的意味;
+substantially:adv.大体上; 本质上，实质上; 充分地; 相当多地;
 fundamental:书面用词,不如basic使用广泛,侧重指作为基础、根本的抽象的事物;
 radical:着重指事物的根本或其来源;
 vital:正式用词,侧重指维持生命、活力必不可少的,或生死攸关的。
@@ -839,7 +840,7 @@ positive积极的,阳性的,正的;
 negative消极的;
 posture姿势,故作姿态;
 composition作文,乐曲; 
-compose组成, be composedof;
+compose组成, be composed of;
 opposition反对,反对党; 
 oppose反对;
 proposition命题,提议,主题; 
@@ -1168,6 +1169,8 @@ compose创作
 decompose分解
 impose强加
 depose废黜; (以书面形式)证明
+oppose 反着放
+suppose 假设
 ```
 
 ```
@@ -1285,3 +1288,972 @@ escape v.逃跑;
 inescapablea.不可逃避的=
 inescapability n.不可避免
 ```
+
+```
+substantially
+adv.大体上; 本质上，实质上; 充分地; 相当多地;
+
+rule out 排除
+```
+
+# 9.3
+
+```
+despise 鄙视
+contempt 鄙视
+```
+
+```
+be characterized by = be defined as
+被描述为
+```
+
+```
+unpretentious 谦虚的
+```
+
+```
+助记
+[联想] 
+posit v.假定
+positive adj.积极的,正面的
+composition n.成分,合成物
+opposition n.反对,敌对
+apposition n.并列,同位
+deposition n.沉积,免职,证言
+imposition n.强迫接受
+```
+
+```
+助记
+[对比]这些动词均含"注意”之意。
+① attend:一般用词,侧重专心于某事。
+② notice:指对所见所闻所感的人或事作出的反应,侧重结果。
+③ note:语气比notice强,指不仅注意到,而且记录下来,侧重注意的认真与仔细。
+④ mind:指用心地去观察,了解某人或某物以达到某一目的。常用于命令句中。
+⑤ remark:一般指经过思维活动而注意到。
+```
+
+```
+助记
+[对比]如果你不gain (获得)成功,就只能pain (痛苦)。“利益，好处”之意
+advantage:指因某方面占优势或利用某机会以及对方弱点而获得利益与好处
+benefit:普通用词,指通过正当手段从物质或精神方面得到的任何好处或利益
+interest:作"利益”解时,多用复数形式,既可指集团、群体的利益,又可指个人的利益
+favor:指在竞争中获得的advantage,也可指在狭隘的个人利益
+profit:著重收益,尤指从物质、钱财等方面获得的利益
+gain:指获得的物质利益,也暗示不损坏他人利益而得的无形好处
+```
+
+```
+助记
+●describe指用语言文字描述;
+●portray指通过故事、小说等方式用文字来描述,还可专指用笔描绘或绘画;
+●depict指给物体着色或是素描,借用在文学上表示“描写",强调外表、形象、色彩等具体细节。
+```
+
+```
+助记
+[联想]朱伟门徒
+decline v衰落,谢绝(cline倾斜之意) 
+incline to倾向inclination性情,偏爱
+sexual inclination性取向
+descend 降低身份,下降v 
+descent n
+descendent/offspring 后代
+heir继承人
+successor继任者
+ascend v上升
+ascent n
+```
+
+```
+助记
+[联想] transfer n/v转移;转让
+transmit v.传播  transmission传输
+transport n/v运输 transportation运输
+transit n/v运输;经过transition转变;过渡
+transform v.转变;改造transformation转化;改革
+translate v.翻译  translation翻译
+transcend v.超越 transcendence超越
+transaction 交易
+```
+
+```
+助记
+[扩展]
+1.
+just 公平、公正的;正好地
+justify v.为证明公平
+justice n.公平、公正
+2. 
+judge n.法官、陪审员
+jury n.陪审团
+judicial a.法庭的,公平的
+judicious a.公平的、明断的，明智的,
+```
+
+```
+助记
+[口诀] 
+lie-lied-lied说谎; 
+lie-lay-lain躺,位于; 
+lay-laid-laid下蛋
+说谎是规则(变化) ,躺下不规则(变化) ,躺过就下蛋。
+```
+
+```
+助记
+[对比]"爬走":他为什么爬着走,我很疑惑(puzzle)。有"谜，难题"之意。
+① mystery:指常人难以认识其起因或性质的奥秘,或指有意不让人理解的奥妙。
+② puzzle:语气较强,指复杂令人费解的情况或问题。
+③ riddle:指供人猜的谜语游戏,也可指终究会有解答的难题。
+④ problem:指有待探讨的疑难问题,也可指令人困惑的情况。
+```
+
+```
+助记
+[联想] 
+emotion:情感,感情,表某物引起的激动;
+feeling:指的是一般的情结、感觉(feel触摸);
+passion:激情,热情,欲望;
+sensation: (sense感觉)指人体感官受到外部刺激时产生的感觉/知觉;
+sentiment:思想感情,情结;感情色彩,强调主观作用
+```
+
+
+```
+助记
+[联想]
+correct / rectify / remedy / revise的区别;
+这些动词均含"纠正，改正"之意;
+amend:书面语用词。指进行更正或改变,使之更好,符合更高的要求;
+correct:指纠正或改正不正确、不真实或有缺点的东西;
+rectify:正式用词,意义较抽象,侧重指彻底改正偏离正确标准或规则的东西;
+remedy:正式用词,通常指在局部范围内进行纠正,尤指对困难或棘手问题的解决;
+revise:指通过仔细阅读、反复思考后而进行改正、订正或修订,使趋于完善
+```
+
+
+```
+助记
+[联想] 
+philosophy哲学
+psychology心理学
+physiology生理学
+psychiatry精神病学
+physics物理学
+```
+
+
+```
+助记
+[联想]考研
+make both ends meet收支平衡
+even 偶数 
+odd 奇数
+break even不盈不亏
+at odds 不一致;格格不入
+```
+
+# 9.4
+
+```
+equivocal
+adj.模棱两可的; 意义不明的; 模糊的; （指人等） 不可靠的;
+
+ambiguous
+adj.模棱两可; 含糊的，不明确的; 引起歧义的; 有两种或多种意思的;
+```
+
+```
+comply with = abide by = subject to
+遵从于，服从于
+```
+
+```
+助记
+[词根] 
+greg=group,表示"群体"
+gregarious a群居的,爱社交的(greg+arious爱..的=爱群体的)
+aggregate v合计,聚集(ag增加+greg+ate=增加团体=聚集)
+aggregation n聚集物(aggregate+ion)
+congregate v聚集(con共同+gregtate=共同集会)
+disaggregate v分解,分离(dis分+aggregate聚合=聚合的东西分开=分解)
+egregious a过分的,不寻常的(e出+gregtiuos=出了一般团体=过分的)
+```
+
+
+```
+助记
+[联想] 
+elite n.精英; 
+elitism精英主义
+-Crat精英分子;-cratic精英的;-cracy精英主义【 Crat都是表示高高在上】; 【aristo-表示贵族】
+aristocracy n.贵族主义; 
+aristocrat n.贵族
+aristocratic a.贵族的; 
+meritocrat n.精英分子
+meritocratic a.精英的;
+bureaucracy n.官僚主义,衙门
+bureaucrat n.官僚
+bureaucratic a.官僚的,官僚主义的
+democracy /democrat/ democratic民主
+```
+
+
+```
+助记
+[联想] 
+complicated形复杂的,难懂的。
+complication并发症;复杂;复杂化;混乱
+complex复杂的综合的综合体
+intricate错综复杂的,难理解的
+sophisticate复杂的,精妙的
+deteriorate恶化
+degenerate恶化,退化
+aggravate加剧
+```
+
+
+```
+助记
+[联想] (一起) test (测试) ,学生一起测试就是"竞争"。
+concert音乐会,协调
+content内容
+contention争论
+contact联系
+context上下文，环境
+```
+
+
+```
+[联想]考研
+in contact with 与.有关
+in line with 与 一致
+in association with 与…有关联
+in concert with 与…保持一致;契合
+```
+
+
+```
+助记
+[联想] ad(表加强) + mit(送)-能送进去→准许…进入
+admit承认
+permit允许
+omit省略
+emit发送
+commit承认犯罪
+intermit间断
+remit汇款
+submit屈服
+transmit传递
+mit送
+```
+
+
+```
+助记
+adapt v.适应,改编
+adept a.娴熟的
+be adept at 擅长于
+adopt v.接纳,收养
+adopt an orphan 收养孤儿
+```
+
+
+```
+助记
+essential 必要的;本质的
+basic 基础的
+indispensable 必不可少的;不可避免的
+necessary 必须的
+critical 重要的;挑剔的
+crucial 重要的;决定性的
+vital 重要的;生死攸关的
+```
+
+
+```
+助记
+[对比]引用(cite)了某个城市(city)市民的(cit)案例
+cite和quote区别
+1·你可以cite a quotation,但不能quote a citation. 
+Cite是引用的定位(书名、章节、页码) 。
+Quote是引用的内容。
+2.学计算机的话可以这样理解: 
+cite引用是指针,需要dereference才能得到实际的内容,
+而quote引用则是直接复制内容【虽然不一定是原样完整的复制】。
+```
+
+
+```
+助记
+[联想] re表示重新, cover表示覆盖, recover就是弥补的意思。
+这些动词均有"重新获得,重新找到,恢复"之意。
+① regain:著重指通过努力使失去的东西复得。
+② restore:指建筑物、工艺品恢复原状,也指健康、能力等的恢复。
+③ reclaim:主要指回收或利用废物。
+④ recover:普通用词,含义广,可泛指收回去的物质的或精神的东西,也指无意中找到失物。
+```
+
+
+```
+助记
+resume 恢复; 
+consume 消费
+assume 假定; 
+presume假定
+```
+
+
+```
+助记
+im-往里面, pose v.做姿态,摆; lev-表示轻
+impose[往心里面施加]v.强加,征税,施加影响
+imposed a.强加的; 
+imposition n.强加,征税,不合理要求; 
+imposing a.壮观的
+levy["征税时,意愿上的轻"Jv.征收,征募词组
+levy a war upon对..宣战;
+impose heavy tax/taxation on 对..征收重税
+levy a heavy fine/taxation/tax on 罚重款/征重税
+词典
+```
+
+
+```
+助记
+except (prep) :除 .外
+except for除.....外。
+exception (n) :除外,例外
+exceptions n.免责条款
+expect (vt)预料。
+expectable (a)可预料的
+expectation (n)期望
+express表达
+```
+
+
+```
+助记
+[联想] 
+in the end 最后
+finally 最终地
+ultimate 最终的
+terminal 最后的
+at last 最后
+eventual 最后
+```
+
+
+```
+助记
+[对比]举个简单的(simple)例子(sample)
+有“例子，事例”之意。
+① case:多指需要加以认真研究的实例,如病例,案例等。
+② example:普通用词,指能代表同类事物性质或一般规律的典型例子。
+③ instance:多指用于说明的事例。
+④ sample:通常指样品。
+⑤ illustration:指用来说明、解释某种理论或看法而引用的例证。
+⑥ specimen:可与sample换用,但常指人或物中选出的有代表性部分,或指供科研、化验或检验用的标本。
+```
+
+```
+助记
+be proficient in/with = be acquaint with 对.很熟悉
+efficient 高效一熟悉了就高效率
+其他表示擅长的词
+be adept at =
+be good at =
+have/showa great mastery of = 
+specialize in = 
+major in
+```
+
+
+```
+助记
+efficient 效率的; 
+proficient 熟练的
+sufficient 充分的; 
+deficient 不足的
+magnificent宏伟的;
+munificent慷慨的
+```
+
+
+```
+助记
+[对比] abundant, plentiful, ample均有“充分的、丰富的"之意,区别是:
+abundant:着重某物极为丰富或有大量的供应。
+plentiful:普通用词,指某物的数量多得称心如意,不过剩,但较少用于描写抽象之物。
+ample:指某物不仅满足了需要而且有余。
+```
+
+
+```
+助记
+extent 范围程度
+extend 延伸扩大
+expand 扩张膨胀
+expend 花费
+```
+
+```
+助记
+expectation 期望 
+expect v.期待; 
+expectation n.期望 
+inspect v.检查; 
+inspection n.检查
+prospect n.前景; 
+suspect v.怀疑
+respect v.尊重; 
+introspect v.反省
+aspect n.方面; 
+retrospect v.回顾
+```
+
+
+```
+助记
+allure vt.引诱,诱惑，吸引 n.诱惑力vi.诱人,吸引人
+seduce vt.引诱,诱惑,诱奸,怂恿
+induce vt.引诱,诱惑,感应,引导
+attract vt.吸引引起vi.吸引;有吸引力
+tempt vt.诱惑;引起;冒 的风险;使感兴趣
+```
+
+
+```
+助记
+[词根] marin/mar/marn/mare 词根海洋
+marine 海的海生的;海军陆战队
+mariner 海员水手
+maritime 海的,海事的,海员的
+submarine 潜水艇
+```
+
+# 9.5
+
+```
+助记
+augment:较正式词,一般指在原有的基础上增加含量而扩大
+amplify:在科技中常指声音的扩大或电磁波的增强。也指补充细节、详述或扩大内容等。此词系正式用语
+enlarge:主要指面积或体积等的扩大
+expand:指范围、程度、体积和尺寸等方面的扩大或增加
+increase:指数量、强度和大小等方面的扩大或增加
+magnify:可指用光学仪器使物体看上去显得变大;也指事实上把某物增大,有时用于夸张意味
+multiply:通常指自然繁殖而产生的增长
+```
+
+```
+助记
+[扩展] establish v.建立
+establishment建立机构
+administration管理行政
+constitution宪法;制定;设立;体格
+institution n.,制度;机构;风俗;习惯
+organization n.,组织;机构
+```
+
+```
+助记
+[联想] 
+band 乐队;
+bond 票据;
+bind v.捆扎
+bound v.限制,弹跳
+```
+
+```
+助记
+[联想]-ev-/lif-表示轻的
+elevate[举重若轻>太轻>轻松举起]v.举起,提升
+elevator [轻松的把你举起来]n.电梯=lift
+escalate v.升级[消极词]The violence has beenescalated. escalator n.自动扶梯
+levity n.轻率
+alleviate [all-加深程度]v.减轻,缓和
+smooth v.顺滑/畅,安抚-mo"平滑"
+mollify v.缓和; 
+console v.安抚,安慰[sol-孤独-一起陪你一个人
+consolation n.安慰;
+```
+
+```
+助记
+[对比] 
+abandon,desert,discard,forsake 
+① abandon强调“完全、永远地遗弃”,尤其指遗弃以前负有责任的人或物.
+② desert强调"违背允诺、誓言或责任",尤其指"背叛、擅离职守". 
+③ discard强调"抛弃、丢弃无用的事物或永远放弃某个信念". 
+④ forsake指"遗弃某人以前所爱的人或物",强调"断绝情感上的依恋".
+```
+
+```
+助记
+[词根] sist=stand站立
+insist (in-表加强;坚立不移一) v.坚持;强调;坚决主张
+insistent adj.坚持的;显眼的;紧急的
+insistence n.坚持;强调
+consist (con-共同;立在一起>组合在一起→) v.由.组成;符合;在于
+resist (re-相反,反对; to stand against-) v.反抗;抵制;忍耐
+assist (as-=at;立于一旁一) v.援助,辅助n.帮助
+persist (per-贯穿,自始至终-)v.坚持;存留;固执
+exist (ex-外,出; (x后省略s)ist;站在一旁一) v.存在;生存
+```
+
+```
+助记
+[联想] insist / persist / persevere / adhere / cling的区别:
+这些动词均有“坚持"之意；
+insist:通常用于对意见、主张等的坚持;
+persist:用于褒义指坚持继续做某事,但更常用于贬义,指不听劝告,顽固坚持;
+persevere:含褒义,强调坚持不懈的努力;
+adhere:与to连用,指坚持意见、计划或者承诺等,含坚持不懈之意;
+cling:与to连用,指对信仰、意见、习惯等的坚持。
+persist in/with坚持
+```
+
+```
+助记
+[联想] 
+announce v.宣布, 
+renounce vt.放弃,抛弃
+pronounce v.发音
+denounce vt.公开指责,公然抨击
+declare vt.宣布、宣称:声明、申报
+claim vt.声称、断言、索取
+allege vt.断言、宣称、辩解，发表,通告
+```
+
+```
+助记
+[对比]均含“但是,可是,然而,而"之意
+but:口语常用词,语气较强,泛指与前述情况相反
+however:表转折关系,语气稍弱于but,连接性也弱一些,因而常作插入语!
+still:语气强,多用于肯定句或疑问句。指尽管作出让步,采取措施或表示反对,但情况仍然如故,无所改变
+yet:常用于否定句,语气比still稍强。指不管作出多大努力或让步,仍达不到预期的结果
+nevertheless:指尽管作出完全让步,也不会发生任何影响。
+while:表对比,一般可与whereas换用,但程度弱一些
+whereas:表对比,一般可与while互换
+```
+
+```
+助记
+connection / combine / relate / associate的区别:
+connect:指两事物在某一点上相连接,但彼此又保持独立;
+combine:指两个以上的人或物结合在一起;
+relate:指有亲戚或婚烟关系;
+associate:指人与人友好和平、平等地联合在一起。
+```
+
+```
+助记
+[联想] enormous / vast / immense的区别:
+enormous:常指硕大无比,令人咂舌的事物;
+vast:着重指面极为开阔,用作比喻阅历广、花费大等;
+immense:有大到不能计算的意思。
+tremendous:极大的,巨大的,惊人的
+numerous:许多的
+```
+
+```
+助记
+host 男主人
+hostess 女主人
+hostile 敌对的
+hostage 人质
+```
+
+```
+助记
+[联想] 
+host主人
+host-age人质
+host-ile敌对的
+hospit-able好客的
+herit-age遗产
+postage邮费,邮资
+```
+
+```
+助记
+[联想] 
+verse v.精通于. ,作诗 n.诗文。同义词:
+masteryversed a.精通的,熟练的; 
+skillful a.熟练的;
+proficient a.精通的,熟练的n.专家,老手
+adept a.精通的,擅长的n.内行
+show/have great mastery of 精通./掌握..
+be proficient in /be adept at /be good at 擅长于/精通于.
+specialize in/major in /verse in 精通于../擅长于.
+```
+
+```
+助记
+[对比] 
+corn / crop / grain的区别:这些名词都有“谷物"之意;
+corn:主要指大麦、小麦、燕麦、裸麦、玉蜀泰这5种谷物及其粒子;
+crop:指谷物或果类等一年或一季的收成,也可指地里的农业作物或谷物;
+grain:指稻、麦等谷类及其粒子。
+```
+
+```
+助记
+[联想] 
+catastrophe / calamity / disaster / misfortune的区别:
+catastrophe:语气最强,指可怕的灾难,强调最终的结局;
+calamity:多指个人的不幸,比disaster严重,强调灾难引起的悲痛以及对于损失的感觉;
+disaster:普通名词,指大破坏、痛苦或者伤亡;
+misfortune:普通用词,多批较为严重的不幸,强调不幸多由外界因素所致。
+```
+
+```
+助记
+ambiguous:指文章或讲话中,意思可能有多种理解,令人捉摸不定
+vague:多指因语言不确切,太笼统或因构思含糊、不完善而造成模糊难解
+dim:侧重指或因光线暗淡,或因年代久远、身体欠佳等因素而产生视觉或察觉方面的困难
+indefinite:指无明确定义或限定,重点或总体轮廓不明确
+obscure:语气最强,指晦涩难懂
+faint:指对某事物印象不深,或指声音微弱或希望的渺茫等
+```
+
+```
+助记
+[对比] 
+vigor精力,活力。(伟哥，你懂的。)
+vulgar庸俗的
+vague模糊的
+vogue时髦, (o代表我,我时髦。)
+verge边缘
+```
+
+```
+助记
+[联想] 
+implement工具
+implementation履行、实施
+compliment恭维
+complement补语
+supplement补充
+```
+
+# 9.7
+
+```
+助记
+[联想] inter-表示“在 之间,相互"
+interpose v.置于,介入(pose放、放在二者之间)
+intersectv.横断(-sect切割->在中间切一横断)
+intervene v.干涉(vene走,走在二者之间一干涉)
+interaction n.相互影响(action行动>相互行动、影响)
+interchangeable a.可互换的
+interlude v.休息(lude玩>在中间玩,活动间休息
+interrelate v.相互关联 
+=interrelate 
+=interrelative
+irrelative a.不相关的
+```
+
+```
+助记
+[对比]这些前置词或前置短语都含有"虽然,尽管”之意。
+① despite:书面用词,指不受某事或某种原因的阻碍,语气轻于in spite of,
+② in spite of:在这些词中语气最强,可与despite换用,口语或书面语中均可使用。
+③ notwithstanding:语气最弱,仅表示一种障碍的存在。
+```
+
+```
+助记
+[联想] 
+domain, n,领域领土范围
+dominant, adj,显性的支配的
+dominate. v,支配。统治。俯瞰
+dominic 主宰
+domestic adj,国内的家庭的
+predominant adj,主要的卓越的
+predominate v,占主导地位。占支配地位
+```
+
+```
+助记
+[联想] 
+ballot投票,选举
+ballet.芭蕾舞t不发音
+bullet子弹
+拜了他(投票前拜票)
+```
+
+```
+助记
+[串记] 
+brief简洁的
+chief首领
+grief悲伤 动词是grieve使悲伤
+grave坟墓、严重的
+relief宽慰、减轻
+词典
+```
+
+```
+助记
+[联想] con一致, form形式
+confirm 证实
+conform 符合，一致
+conflict 冲突
+confer 授予,商讨
+confess 承认,忏悔
+```
+
+```
+助记
+[对比] controversy, argument, conflict, debate, dispute这组名词均有“争执、不和"之意。
+controversy:侧重指深刻的意见分歧,多指对引起广泛兴趣或非常重要的问题的辨论。
+argument:指辩论双方均以事实或理由来说服对方的辨论。
+conflict:指双方坚持已见、互不妥协,怀有敌意的争论,多暗示分歧极为严重,有时用语言无法解决,只得诉诸武力。
+debate:通常指经过仔细组织和计划的个人或团体之间的辩论。
+dispute:普通用词,侧重指长时间,言词激烈,针锋相对
+```
+
+```
+助记
+[对比]均有"争执,不和"之意
+argument:指辩论双方均以事实或理由来说服对方的辨论
+controversy:侧重指深刻的意见分歧,多指对引起广泛兴趣或非常重要的问题的辨论
+conflict:指双方坚持已见、互不妥协,怀有敌意的争论,多暗示分歧极为严重,有时用语言无法解决,只得诉诸武力
+debate:通常指经过仔细组织和计划的个人或团体之间的辩论
+dispute:普通词,侧重指长时间,言词激烈,针锋相对的争辩
+quarrel:普通词,既可指言词激烈的争吵,也可指温和的言词上的不和
+strife:指因不可缓和的矛盾而引起的争吵或斗殴
+```
+
+
+
+
+# 9.8
+
+```
+助记
+[联想] 
+passive 消极的
+positive 积极的
+objective 客观的
+subjective 主观的
+pessimistic 悲观的
+optimistic 乐观的
+```
+
+```
+助记
+[联想] 
+rarely罕见的; 
+barely几乎不; 
+merely只不过,仅仅=
+seldom=
+rarely=
+hardly=
+scarcely几乎不
+```
+
+```
+助记
+[联想]再一次re对待(treat)是时候撤退(retreat)了
+shrink收缩,退缩
+withdraw撤退,撤回
+retreat撤退,退缩
+retract缩回
+retreat from从....退entreat乞求祈祷
+maltreat虐待
+recede回退
+concession让步
+advance前进
+treat sb as把...作treat sb for给某人医治
+```
+
+```
+助记
+[联想] 
+diminish v.指因为不断消耗,在数量方面缓慢减少,也指在素质或者价值的下降
+alleviate v.在痛苦方面的减轻,缓和
+reduce v.指人为地使某物在数量或重量方面的减少或降低。
+decrease v.指数量上的减少;力量或者强度的减弱。
+decline v. (数目、价格、比率)下降;谢绝,婉言推辞;衰退,衰落。
+decrease强调数目或使人不快之物的逐渐减少。
+```
+
+```
+助记
+[联想] 
+divide 分开,划分,除法
+dividend 分红
+divine 神的
+bonus 红利
+allowance 津贴
+subsidy 补贴,津贴
+pension 退休金,津贴
+```
+
+
+```
+助记
+[词根] 
+un-①无不没有②打开解开送出
+unacceptable不可接受的
+unavailable不可获得的
+unbearable不堪忍受的
+unbreakable牢不可破的
+uncertain不确定的
+unchangeable不可改变的
+uncomfortable不舒服的
+uncommon不凡的
+unconditional无条件的
+unbeatable无敌的
+unbind解开
+unfold展开
+unlord卸载
+unmask揭露
+unroll开
+unplug plug塞子【拔去】
+```
+
+# 9.9
+
+```
+助记
+[扩展] 【恋恋有词】 
+informative提供情报的,增长见识的; 
+informally非正式地; 
+conform v.遵从,符合,致~to服从于~ with与 一致; conformity符合,一致;
+nonconformist不墨守成规者(的) 
+transformation改革,转换; 
+formulate v.构想,系统阐述;
+formulation表达方式; 
+informativeness信息量; 
+uninformed知识缺乏的
+misinformation假消息; 
+uniformity统一性;
+formidable可怕的,令人敬畏的; 
+previous先前的
+```
+
+```
+助记
+[联想] 
+subsidy 补贴
+allowance津贴
+bonus  奖金
+tuition 学费
+fee  学杂费
+scholarship奖学金
+tip  小费
+fine  罚款
+toll  过路费
+fare 车票费
+tax	税
+revenue	税收
+welfare	福利
+pension	养老金
+```
+
+```
+助记
+[词根] stit-to stand站立
+institute n.学院v.制定
+institution 制度
+constitute v.构成;
+constitution n.宪法
+substitute v.代替;
+substitution n.替换
+```
+
+```
+[对比] restrict和refrain的重要区别:
+refrain是不及物动词,后面加from doing,是某人主动戒除。
+restrict是及物动词,后面加sb,即restrict sb from doing,是限制、约束某人做某事(没做)。
+```
+
+```
+助记
+[联想] restrain / check / refrain / bridle / curb / inhibit的区别:
+这些动词均含“阻止,抑制,制止”之意;
+restrain:含义广,指用强力或权力去阻止或限制某人做某事;
+check:多指阻止前进或继续发展;
+refrain:常指暂时对某种行动或冲动的抑制;
+bridle:指抑制住强烈的感情或欲望;
+curb:可指急剧或果断的制止,也可指用严格的方法加以控制;
+inhibit:主要指抑制愿望、情绪或念头,也指制止某物的蔓延。
+```
+
+```
+助记
+[词根] part→部分: 
+partial偏袒的
+impartial a.公正的; 
+particle n.粒子
+apart a.分开的;
+apartment n.公寓
+depart v.离开; 
+department n.部门
+impart v.传授; 
+compartment间隔
+```
+
+```
+助记
+[联想] 
+decorate v装饰
+decoration n装饰，装饰物
+embellish v装饰,润色
+embellishment n装饰,润色
+ornamentv装饰
+ornamentation n装饰
+ornamental a装饰的
+```
+
+# 9.10
+
+```
+助记
+[对比] league federation union alliance
+这些名词均含“联盟、同盟、联合会”之意。
+league:league普通用词,指为了共同的利益而建立的地区性、全国性或国际性的联合组织,也指民间或半官方组织的联盟。
+federation:federation泛指用条款固定下来的一切联合,尤指联邦政府。
+union:union普通用词,指由若干个体结成的一个统一的整体。强调其永久性。
+alliance:alliance普通用词,指对双方均有利的任何联盟。
+```
+
+```
+助记
+[联想] 
+bind : "绑”起来“约束”在b和d的里面(in)
+in a bind处于困境
+bond 结合
+bid 投标
+bound 束缚
+bundle 一捆
+bunch一束
+```
+
+```
+助记
+[联想] 
+obsessive令人着迷的
+attractive吸引人的,令人着迷的
+absorbed吸引人的
+fascinated令人着迷
+addiction n.瘾
+concession让步
+```
+
+```
+助记
+[联想] mono-单独的
+monopoly 垄断
+monotony 单调
+monologue 独白 
+monograph 专题论文
+monogamy 一夫一妻制
+```
+
